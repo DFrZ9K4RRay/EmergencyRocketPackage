@@ -2,3 +2,4 @@
 
 官网有很多商业化工具：GetData Mount Image Pro
 
+30天免费申请可以直接从官网申请。
