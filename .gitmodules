@@ -1,0 +1,3 @@
+[submodule "0x06取证辅助工具/关键证据提取脚本/linux应急响应脚本/0x06取证辅助工具/关键证据提取脚本/linux应急响应脚本/LinuxCheck"]
+	path = 0x06取证辅助工具/关键证据提取脚本/linux应急响应脚本/0x06取证辅助工具/关键证据提取脚本/linux应急响应脚本/LinuxCheck
+	url = git@github.com:al0ne/LinuxCheck.git
