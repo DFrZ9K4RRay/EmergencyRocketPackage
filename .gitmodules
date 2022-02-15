@@ -7,3 +7,6 @@
 [submodule "0x05病毒木马分析工具/NeoPI"]
 	path = 0x05病毒木马分析工具/NeoPI
 	url = git://github.com/Neohapsis/NeoPI.git
+[submodule "0x05病毒木马分析工具/webshell-scan"]
+	path = 0x05病毒木马分析工具/webshell-scan
+	url = git@github.com:tstillz/webshell-scan.git
