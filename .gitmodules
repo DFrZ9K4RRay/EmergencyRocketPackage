@@ -10,3 +10,9 @@
 [submodule "0x05病毒木马分析工具/webshell-scan"]
 	path = 0x05病毒木马分析工具/webshell-scan
 	url = git@github.com:tstillz/webshell-scan.git
+[submodule "0x06取证辅助工具/关键证据提取脚本/windows应急响应脚本/dumpBCF"]
+	path = 0x06取证辅助工具/关键证据提取脚本/windows应急响应脚本/dumpBCF
+	url = git@github.com:jwhwan9/dumpBCF.git
+[submodule "0x06取证辅助工具/关键证据提取脚本/windows应急响应脚本/recentfilecache-parser"]
+	path = 0x06取证辅助工具/关键证据提取脚本/windows应急响应脚本/recentfilecache-parser
+	url = git@github.com:prolsen/recentfilecache-parser.git
