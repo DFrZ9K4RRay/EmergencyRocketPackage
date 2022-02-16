@@ -16,3 +16,6 @@
 [submodule "0x06取证辅助工具/关键证据提取脚本/windows应急响应脚本/recentfilecache-parser"]
 	path = 0x06取证辅助工具/关键证据提取脚本/windows应急响应脚本/recentfilecache-parser
 	url = git@github.com:prolsen/recentfilecache-parser.git
+[submodule "0x06取证辅助工具/关键证据提取脚本/windows应急响应脚本/--force"]
+	path = 0x06取证辅助工具/关键证据提取脚本/windows应急响应脚本/--force
+	url = git://github.com/jwhwan9/dumpBCF.git
