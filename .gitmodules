@@ -19,3 +19,6 @@
 [submodule "0x06取证辅助工具/关键证据提取脚本/windows应急响应脚本/--force"]
 	path = 0x06取证辅助工具/关键证据提取脚本/windows应急响应脚本/--force
 	url = git://github.com/jwhwan9/dumpBCF.git
+[submodule "0x06取证辅助工具/whohk"]
+	path = 0x06取证辅助工具/whohk
+	url = git@github.com:heikanet/whohk.git
